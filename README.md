@@ -32,7 +32,7 @@
 
 | 項目 | 連結 |
 |------|------|
-| 📊 課堂簡報 | [下載 PDF](./[從開發工具到產品思維]%20單元%201%20｜%20Vibe%20Coding%20入門(week1).pptx.pdf) |
+| 📊 課堂簡報 | [下載 PDF](<./[從開發工具到產品思維] 單元 1｜Vibe Coding 入門(week1).pptx.pdf>) |
 | 📝 操作手冊 | [HackMD 連結 1](https://hackmd.io/@vVHC1jffQWuFZd6HVu7sFg/ryEiQGN4Wx) |
 | 📝 操作手冊 | [HackMD 連結 2](https://hackmd.io/@vVHC1jffQWuFZd6HVu7sFg/BkgDazEEWe) |
 | 🎬 課堂影片 | [元智大學課程](https://e.lifelong.yzu.edu.tw/course/53) |
@@ -54,7 +54,7 @@
 
 | 項目 | 連結 |
 |------|------|
-| 📊 課堂簡報 | [下載 PDF](./[從開發工具到產品思維]%20單元%202%20｜%20Web%20小工具快速上線.pptx.pdf) |
+| 📊 課堂簡報 | [下載 PDF](<./[從開發工具到產品思維] 單元 2｜Web 小工具快速上線.pptx.pdf>) |
 | 📝 操作手冊 | [HackMD 連結 1](https://hackmd.io/@vVHC1jffQWuFZd6HVu7sFg/rJIm7HXHWl) |
 | 📝 操作手冊 | [HackMD 連結 2](https://hackmd.io/@vVHC1jffQWuFZd6HVu7sFg/rkev1IXrbx) |
 | 🎬 課堂影片 | [元智大學課程](https://e.lifelong.yzu.edu.tw/course/56) |
@@ -86,7 +86,7 @@
 
 | 項目 | 連結 |
 |------|------|
-| 📊 課堂簡報 | [下載 PPTX](./[從開發工具到產品思維]%20單元%204%20｜%20行動指揮中心：LINE%20Bot%20助理.pptx) |
+| 📊 課堂簡報 | [下載 PPTX](<./[從開發工具到產品思維] 單元 4｜行動指揮中心：LINE Bot 助理.pptx>) |
 | 📝 操作手冊 | [HackMD 連結](https://hackmd.io/@vVHC1jffQWuFZd6HVu7sFg/HykF71LLZx) |
 | 🎬 課堂影片 | [元智大學課程](https://e.lifelong.yzu.edu.tw/course/58) |
 | 📺 補充影片 | [YouTube 影片](https://www.youtube.com/watch?v=8p-uWpy-Uh4) |
